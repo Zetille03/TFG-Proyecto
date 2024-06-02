@@ -15,9 +15,14 @@
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
+CREATE SCHEMA IF NOT EXISTS marketonubaprueba;
+
+USE marketonubaprueba;
+
 --
 -- Table structure for table `actividadesconsumidores`
 --
+
 
 DROP TABLE IF EXISTS `actividadesconsumidores`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
