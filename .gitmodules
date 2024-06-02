@@ -1,0 +1,6 @@
+[submodule "TFGServer"]
+	path = TFGServer
+	url = https://github.com/Zetille03/TFG_Server.git
+[submodule "TFG_ClientApp"]
+	path = TFG_ClientApp
+	url = https://github.com/Zetille03/TFG_ClienteApp.git
